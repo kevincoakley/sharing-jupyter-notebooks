@@ -121,6 +121,7 @@ mybinder.org will create a URL to be shared that will automatically Launch Jupyt
 ## Notes
 
 [^1]:
+
      [https://en.wikipedia.org/wiki/OS-level_virtualization](https://en.wikipedia.org/wiki/OS-level_virtualization)
 
 [^2]:
@@ -128,18 +129,23 @@ mybinder.org will create a URL to be shared that will automatically Launch Jupyt
      [https://en.wikipedia.org/wiki/Markdown](https://en.wikipedia.org/wiki/Markdown)
 
 [^3]:
+
      [https://mybinder.readthedocs.io/en/latest/tutorials/reproducibility.html](https://mybinder.readthedocs.io/en/latest/tutorials/reproducibility.html)
 
 [^4]:
+
      [https://docs.conda.io/projects/conda/en/latest/user-guide/concepts/installing-with-conda.html](https://docs.conda.io/projects/conda/en/latest/user-guide/concepts/installing-with-conda.html)
 
 [^5]:
+
      [https://github.com/binder-examples/r/blob/master/install.R](https://github.com/binder-examples/r/blob/master/install.R)
 
 [^6]:
+
      [https://mybinder.readthedocs.io/en/latest/config_files.html](https://mybinder.readthedocs.io/en/latest/config_files.html)
 
 [^7]:
+
      [https://en.wikipedia.org/wiki/ReStructuredText](https://en.wikipedia.org/wiki/ReStructuredText)
 
 [^8]:
@@ -147,12 +153,15 @@ mybinder.org will create a URL to be shared that will automatically Launch Jupyt
      [https://store.docker.com/editions/community/docker-ce-desktop-windows](https://store.docker.com/editions/community/docker-ce-desktop-windows)
 
 [^9]:
+
      [https://store.docker.com/editions/community/docker-ce-desktop-mac](https://store.docker.com/editions/community/docker-ce-desktop-mac)
 
 [^10]:
+
      [https://docs.docker.com/engine/install/#server](https://docs.docker.com/engine/install/#server)
 
 [^11]:
+
      [https://en.wikipedia.org/wiki/Git](https://en.wikipedia.org/wiki/Git)
 
 [^12]:
