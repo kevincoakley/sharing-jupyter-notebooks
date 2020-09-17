@@ -19,7 +19,7 @@ Jupyter notebooks should be clear, concise and have results that are reproducibl
 
 
 1. Document the workflow and code. 
-    1. Create **Markdown[^2] cells** to document whole cells or groups of cells.
+    1. Create ** Markdown[^2] cells ** to document whole cells or groups of cells.
 
 
     2. Use inline code comments to document complex algorithms and methods.
