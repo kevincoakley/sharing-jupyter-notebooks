@@ -37,9 +37,9 @@ When developing a new Jupyter notebook project, use a new sterile environment th
 
 A new environment can be created using the following commands:
 
-**Python**: `conda create -n &lt;enviroment_name> python=3 jupyter -y`
+**Python**: `conda create -n <enviroment_name> python=3 jupyter -y`
 
-**R**: `conda create -n &lt;enviroment_name> r-base r-essentials jupyter -y`
+**R**: `conda create -n <enviroment_name> r-base r-essentials jupyter -y`
 
 **3.2 Managing Dependencies**
 
