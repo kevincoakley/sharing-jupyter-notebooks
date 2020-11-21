@@ -152,60 +152,60 @@ mybinder.org will create a URL to be shared that will automatically Launch Jupyt
 
 [^1]:
 
-     [https://en.wikipedia.org/wiki/OS-level_virtualization](https://en.wikipedia.org/wiki/OS-level_virtualization)
+[https://en.wikipedia.org/wiki/OS-level_virtualization](https://en.wikipedia.org/wiki/OS-level_virtualization)
 
 [^2]:
 
-     [https://en.wikipedia.org/wiki/Markdown](https://en.wikipedia.org/wiki/Markdown)
+[https://en.wikipedia.org/wiki/Markdown](https://en.wikipedia.org/wiki/Markdown)
 
 [^3]:
 
-    [https://mybinder.readthedocs.io/en/latest/tutorials/reproducibility.html](https://mybinder.readthedocs.io/en/latest/tutorials/reproducibility.html)
+[https://mybinder.readthedocs.io/en/latest/tutorials/reproducibility.html](https://mybinder.readthedocs.io/en/latest/tutorials/reproducibility.html)
 
 [^4]:
 
-     [https://docs.conda.io/projects/conda/en/latest/user-guide/concepts/installing-with-conda.html](https://docs.conda.io/projects/conda/en/latest/user-guide/concepts/installing-with-conda.html)
+[https://docs.conda.io/projects/conda/en/latest/user-guide/concepts/installing-with-conda.html](https://docs.conda.io/projects/conda/en/latest/user-guide/concepts/installing-with-conda.html)
 
 [^5]:
 
-     [https://github.com/binder-examples/r/blob/master/install.R](https://github.com/binder-examples/r/blob/master/install.R)
+[https://github.com/binder-examples/r/blob/master/install.R](https://github.com/binder-examples/r/blob/master/install.R)
 
 [^6]:
 
-     [https://github.com/kevincoakley/rehydratoR-jupyter-notebook/blob/main/postBuild](https://github.com/kevincoakley/rehydratoR-jupyter-notebook/blob/main/postBuild)
+[https://github.com/kevincoakley/rehydratoR-jupyter-notebook/blob/main/postBuild](https://github.com/kevincoakley/rehydratoR-jupyter-notebook/blob/main/postBuild)
 
 [^7]:
 
-     [https://mybinder.readthedocs.io/en/latest/using/config_files.html](https://mybinder.readthedocs.io/en/latest/using/config_files.html)
+[https://mybinder.readthedocs.io/en/latest/using/config_files.html](https://mybinder.readthedocs.io/en/latest/using/config_files.html)
 
 [^8]:
 
-     [https://mybinder.readthedocs.io/en/latest/using/config_files.html#postbuild-run-code-after-installing-the-environment](https://mybinder.readthedocs.io/en/latest/using/config_files.html#postbuild-run-code-after-installing-the-environment)
+[https://mybinder.readthedocs.io/en/latest/using/config_files.html#postbuild-run-code-after-installing-the-environment](https://mybinder.readthedocs.io/en/latest/using/config_files.html#postbuild-run-code-after-installing-the-environment)
 
 [^9]:
 
-     [https://en.wikipedia.org/wiki/ReStructuredText](https://en.wikipedia.org/wiki/ReStructuredText)
+[https://en.wikipedia.org/wiki/ReStructuredText](https://en.wikipedia.org/wiki/ReStructuredText)
 
 [^10]:
 
-     [https://store.docker.com/editions/community/docker-ce-desktop-windows](https://store.docker.com/editions/community/docker-ce-desktop-windows)
+[https://store.docker.com/editions/community/docker-ce-desktop-windows](https://store.docker.com/editions/community/docker-ce-desktop-windows)
 
 [^11]:
 
-     [https://store.docker.com/editions/community/docker-ce-desktop-mac](https://store.docker.com/editions/community/docker-ce-desktop-mac)
+[https://store.docker.com/editions/community/docker-ce-desktop-mac](https://store.docker.com/editions/community/docker-ce-desktop-mac)
 
 [^12]:
 
-     [https://docs.docker.com/engine/install/#server](https://docs.docker.com/engine/install/#server)
+[https://docs.docker.com/engine/install/#server](https://docs.docker.com/engine/install/#server)
 
 [^13]:
 
-     [https://en.wikipedia.org/wiki/Git](https://en.wikipedia.org/wiki/Git)
+[https://en.wikipedia.org/wiki/Git](https://en.wikipedia.org/wiki/Git)
 
 [^14]:
 
-     [https://docs.github.com/en/github/getting-started-with-github/create-a-repo](https://docs.github.com/en/github/getting-started-with-github/create-a-repo)
+[https://docs.github.com/en/github/getting-started-with-github/create-a-repo](https://docs.github.com/en/github/getting-started-with-github/create-a-repo)
 
 [^15]:
 
-     [https://docs.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository](https://docs.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository)
+[https://docs.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository](https://docs.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository)
