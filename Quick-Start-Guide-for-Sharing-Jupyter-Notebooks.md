@@ -71,7 +71,7 @@ Anaconda can export the list of packages installed in your environment with vers
 
 
 ```
-conda env export -n <enviroment_name> --file environment.yml
+conda env export -n <enviroment_name> --file environment.yml --from-history
 ```
 
 
